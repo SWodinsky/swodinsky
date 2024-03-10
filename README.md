@@ -1,6 +1,16 @@
 
-![Hi-I-m-Shoshana-3-9-2024 (1)](https://github.com/SWodinsky/swodinsky/assets/29129422/54b4ccfc-3cac-4f71-a557-aa396b7cfc23)
+![Hi-I-m-Shoshana-3-9-2024 (1)](https://github.com/SWodinsky/swodinsky/assets/29129422/c53f111e-c6d9-4e69-bb47-a6fada6d095a)
 
+<div align="center">I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy</div>
+
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> 
+
+
+
+
+
+## nothere 
 <p align="center">
  <a href="https://wodinsky.world" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="wodinsky" />
@@ -14,13 +24,8 @@
 <a href="https://discord.com/invite/QteeuEAz2Y" target="_blank">
   <img src="https://img.shields.io/discord/1038908806677139578?style=for-the-badge&logo=Discord&logoColor=white&label=discord&labelColor=%237289DA&color=%237289DA" />
  </a>
-
  
 
-
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
 
 
 <!--
