@@ -26,10 +26,12 @@ I'm on the hunt for my next career opportunity! If you're looking for a data pri
 <details>
 <summary><h2>Click here for even more fun facts!</h2></summary>
  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'd love to colaborate on adversarial privacy projects and OSINT-based investigations
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm happy to offer pay-what-you-can courses on tools like Wireshark and Charles Proxy for journalists and academic researchers
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like biolding mechanical keyboards and chainsmoking on strangers' balconies
 </details>
 
 
