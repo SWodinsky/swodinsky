@@ -11,6 +11,12 @@
  <a href="https://twitter.com/swodinsky" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
+<a href="https://discord.com/invite/QteeuEAz2Y" target="_blank">
+  <img src="https://img.shields.io/discord/1038908806677139578?style=for-the-badge&logo=Discord&logoColor=white&label=discord&labelColor=%237289DA&color=%237289DA" />
+ </a>
+
+
+ 
 </p>
 <br />
 
