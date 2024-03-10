@@ -22,20 +22,17 @@ I realized recently that while my personal website does a good job highlighting 
 
 ## About Me
 I'm on the hunt for my next career opportunity! If you're looking for a data privacy expert with excellent comms and written skills, give my resume a read and reach out: (https://www.canva.com/design/DAF_FF4baLA/dz9eEzb5T1x2pwRSER7MxQ/view)
- 
 <details>
+<summary>Here's some other fun facts about me!</summary>
+<br>
 
-<summary>  More fun facts about me! </ >
-
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm on the hunt for my next job opportunity! 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'd love to colaborate on adversarial privacy projects and OSINT-based investigations
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
-
-
 </details>
+
+ 
 
 
 
