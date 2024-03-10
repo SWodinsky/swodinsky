@@ -1,31 +1,8 @@
 
 ![Hi-I-m-Shoshana-3-9-2024 (1)](https://github.com/SWodinsky/swodinsky/assets/29129422/c53f111e-c6d9-4e69-bb47-a6fada6d095a)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" /> **I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="35" height="35" /> **I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="35" height="35" />
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-
-
-
-
-
-
-## nothere 
 <p align="center">
  <a href="https://wodinsky.world" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="wodinsky" />
@@ -40,6 +17,29 @@ You can add an image or a code block, too.
   <img src="https://img.shields.io/discord/1038908806677139578?style=for-the-badge&logo=Discord&logoColor=white&label=discord&labelColor=%237289DA&color=%237289DA" />
  </a>
  
+<details>
+
+<summary>  More fun facts about me! </summary>
+
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm on the hunt for my next job opportunity! 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'd love to colaborate on adversarial privacy projects and OSINT-based investigations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> You can reach me via LinkedIn, Twitter (X) or email
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
 
 
 
