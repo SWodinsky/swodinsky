@@ -20,8 +20,8 @@
 ## About This Repository
 I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. I guess you could say that this repo is part-portfolio, and part-dumping ground for that sort of technical writing. 
 
-
-
+## About Me
+I'm on the hunt for my next career opportunity! If you're looking for a data privacy expert with excellent comms and written skills, give my resume a read and reach out: (https://www.canva.com/design/DAF_FF4baLA/dz9eEzb5T1x2pwRSER7MxQ/view)
  
 <details>
 
