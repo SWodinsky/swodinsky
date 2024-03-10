@@ -16,10 +16,16 @@
 <a href="https://discord.com/invite/QteeuEAz2Y" target="_blank">
   <img src="https://img.shields.io/discord/1038908806677139578?style=for-the-badge&logo=Discord&logoColor=white&label=discord&labelColor=%237289DA&color=%237289DA" />
  </a>
+
+## About This Repository
+I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. You can consider this repo part-portfolio and part-dumping ground for technical writing. 
+
+
+
  
 <details>
 
-<summary>  More fun facts about me! </summary>
+<summary>  More fun facts about me! </ >
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" />  I'm on the hunt for my next job opportunity! 
