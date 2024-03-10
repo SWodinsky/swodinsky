@@ -2,7 +2,7 @@
 ![Hi-I-m-Shoshana-3-9-2024 (1)](https://github.com/SWodinsky/swodinsky/assets/29129422/54b4ccfc-3cac-4f71-a557-aa396b7cfc23)
 
 <p align="center">
- <a href="[https://alsiam.com](https://wodinsky.world/)" target="blank">
+ <a href="[https://wodinsky.world/]" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
