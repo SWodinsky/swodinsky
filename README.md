@@ -1,10 +1,25 @@
 
 ![Hi-I-m-Shoshana-3-9-2024 (1)](https://github.com/SWodinsky/swodinsky/assets/29129422/c53f111e-c6d9-4e69-bb47-a6fada6d095a)
 
-<div align="center">I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" /> **I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" />
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> 
 
 
 
