@@ -18,7 +18,7 @@
  </a>
 
 ## About This Repository
-I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. You can consider this repo part-portfolio and part-dumping ground for technical writing. 
+I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. I guess you could say that this repo is part-portfolio, and part-dumping ground for that sort of technical writing. 
 
 
 
