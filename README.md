@@ -31,7 +31,7 @@ I'm on the hunt for my next career opportunity! If you're looking for a data pri
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm happy to offer pay-what-you-can courses on tools like Wireshark and Charles Proxy for journalists and academic researchers
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like biolding mechanical keyboards and chainsmoking on strangers' balconies
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like building mechanical keyboards and chainsmoking on strangers' balconies
 </details>
 
 <!-- <a href="https://www.textstudio.com/">Font generator</a> -->
