@@ -36,5 +36,5 @@ I'm on the hunt for my next career opportunity! If you're looking for a data pri
 
 <!-- <a href="https://www.textstudio.com/">Font generator</a> -->
 <!-- [<a href="https://www.textstudio.com/">Font generator</a>](https://www.deviantart.com/halmtier/art/PS-Patterns-Of-all-things-fleshy-336191574
-)https://www.deviantart.com/halmtier/art/PS-Patterns-Of-all-things-fleshy-336191574
+)
  -->
