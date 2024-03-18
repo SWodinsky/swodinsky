@@ -20,22 +20,31 @@
 ## About This Repository
 I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. I guess you could say that this repo is part-portfolio, and part-dumping ground for that sort of technical writing. 
 
-## About Me
+### About Me
 I'm on the hunt for my next career opportunity! If you're looking for a data privacy expert with excellent comms and written skills, you should give my [resume a read](https://www.canva.com/design/DAF_FF4baLA/dz9eEzb5T1x2pwRSER7MxQ/view).
 
+### Some Talks I've Given
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop%20of%20Blood.png" alt="Drop of Blood" width="25" height="25" /> **2024** 
+
+- Cabal Collective - "Dissecting Data" (March 2024)
+- College Media Association Convention - "Is Your School Spying On You? Privacy and Ad Tech Investigations" (March 2024)
 
 <details>
 <summary><h2>Click here for even more fun facts!</h2></summary>
  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'd love to colaborate on adversarial privacy projects and OSINT-based investigations
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm happy to offer pay-what-you-can courses on tools like Wireshark and Charles Proxy for journalists and academic researchers
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like building mechanical keyboards and chainsmoking on strangers' balconies
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm looking to contribute user guides, product walkthroughs and "intro-to" documentation to folks creating technology in the data privacy space.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'd love to colaborate on adversarial privacy projects and OSINT-based investigations
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm always available to give talks on adtech, data protection laws and content moderation
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm happy to offer pay-what-you-can courses on tools like Wireshark and Charles Proxy for journalists and academic researchers
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like building mechanical keyboards and chainsmoking on strangers' balconies
 </details>
 
-### Some Talks I've Given
 
 
 <!-- <a href="https://www.textstudio.com/">Font generator</a> -->
