@@ -23,6 +23,7 @@ I realized recently that while my personal website does a good job highlighting 
 ## About Me
 I'm on the hunt for my next career opportunity! If you're looking for a data privacy expert with excellent comms and written skills, you should give my [resume a read](https://www.canva.com/design/DAF_FF4baLA/dz9eEzb5T1x2pwRSER7MxQ/view).
 
+
 <details>
 <summary><h2>Click here for even more fun facts!</h2></summary>
  
@@ -33,6 +34,9 @@ I'm on the hunt for my next career opportunity! If you're looking for a data pri
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> I'm best reached by email, LinkedIn, or Twitter
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> In my downtime, I like building mechanical keyboards and chainsmoking on strangers' balconies
 </details>
+
+### Some Talks I've Given
+
 
 <!-- <a href="https://www.textstudio.com/">Font generator</a> -->
 <!-- [<a href="https://www.textstudio.com/">Font generator</a>](https://www.deviantart.com/halmtier/art/PS-Patterns-Of-all-things-fleshy-336191574
