@@ -29,6 +29,12 @@ I'm on the hunt for my next career opportunity! If you're looking for a data pri
 - Cabal Collective - "Dissecting Data" (March 2024)
 - College Media Association Convention - "Is Your School Spying On You? Privacy and Ad Tech Investigations" (March 2024)
 
+### Some Places You've Seen Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop%20of%20Blood.png" alt="Drop of Blood" width="25" height="25" />
+
+- _Unclickable_, a [2024 documentary](https://variety.com/2024/film/global/unclickable-cat-and-docs-thessaloniki-documentary-festival-1235934850/) on the murky world of ad fraud 
+
+  
 <details>
 <summary><h2>Click here for even more fun facts!</h2></summary>
  
