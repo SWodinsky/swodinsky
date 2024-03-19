@@ -17,24 +17,36 @@
   <img src="https://img.shields.io/discord/1038908806677139578?style=for-the-badge&logo=Discord&logoColor=white&label=discord&labelColor=%237289DA&color=%237289DA" />
  </a>
 
+
+ 
+
 ## About This Repository
 I realized recently that while my personal website does a good job highlighting my years of investigative reporting, it wasn't really suited to hosting the dryer technical docs that I'd create as part of my reporting process. These were typically the manuals, glossaries, and "intro-to" documents that I'd present at talks to other reporters, researchers, and legal expoerts who were curious about my methodology for investigating adtech firms and data supply chains. I guess you could say that this repo is part-portfolio, and part-dumping ground for that sort of technical writing. 
 
 ### About Me
 I'm on the hunt for my next career opportunity! If you're looking for a data privacy expert with excellent comms and written skills, you should give my [resume a read](https://www.canva.com/design/DAF_FF4baLA/dz9eEzb5T1x2pwRSER7MxQ/view).
 
+
+
+
 ### Some Talks I've Given
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop%20of%20Blood.png" alt="Drop of Blood" width="25" height="25" /> **2024** 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> **2024** 
 
 - Cabal Collective - "Dissecting Data" (March 2024)
 - College Media Association Convention - "Is Your School Spying On You? Privacy and Ad Tech Investigations" (March 2024)
 
-### Some Places You've Seen Me
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop%20of%20Blood.png" alt="Drop of Blood" width="25" height="25" />
-
-- _Unclickable_, a [2024 documentary](https://variety.com/2024/film/global/unclickable-cat-and-docs-thessaloniki-documentary-festival-1235934850/) on the murky world of ad fraud 
-
   
+
+### Some Places You've Seen (or Heard) Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> _Unclickable_, a [2024 documentary](https://variety.com/2024/film/global/unclickable-cat-and-docs-thessaloniki-documentary-festival-1235934850/) on the murky world of ad fraud 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> On _The Martech Weekly_ podcast, talking about [ethically reporting on adtech companies](https://www.themartechweekly.com/msom-51-shoshana-wodinsky/)  
+
+
+
+
+
+
 <details>
 <summary><h2>Click here for even more fun facts!</h2></summary>
  
