@@ -4,9 +4,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="35" height="35" /> **I'm a researcher and tech writer who's obsessed with consumer privacy, data ethics, and the digital ad economy** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="35" height="35" />
 
 <p align="center">
- <a href="https://wodinsky.world" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="wodinsky" />
- </a>
  <a href="https://linkedin.com/in/swodinsky" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wodinsky"/>
  </a>
